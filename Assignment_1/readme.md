@@ -1,4 +1,4 @@
-<img align="right" width="500" height="350" src="./gif/output.gif">
+<img align="right" width="500" height="350" src="./gif/output_2.gif">
 
 # Comparison of the Equations:
 
@@ -17,6 +17,6 @@ Input Values: n=7, k=4
 These functions are used to acknowledge time and space complexity
 - Among these equations, Logarithmic function( θ(log n) ) is the best.
 
-<img align="left" width="400" height="200" src="./EQ_images/1_Logarithmic.jpg">
+<img align="left" width="400" height="200" src="./EQ_images/1.png">
 <br/><br/>
-Logarithmic function indicates that if input size increases linearly, the number of elements to execute also increases in inverse exponential manner. Logarithmic functions work on divide and search type of algorithms e.g binary search and quick sort.
+Logarithmic function indicates, if input size increases linearly, the number of elements to execute also increases in inverse exponential manner. Logarithmic functions work on divide and search type of algorithms e.g binary search and quick sort.
