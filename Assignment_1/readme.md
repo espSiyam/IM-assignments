@@ -1,7 +1,7 @@
+# Comparison of the Equations:
 <img width="500" height="350" src="./EQ_images/allplots.png">
 <img align="right" width="500" height="350" src="./gif/output_2.gif">
 
-# Comparison of the Equations:
 
 The Functions are:
 
